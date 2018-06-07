@@ -5,9 +5,9 @@ eureka:
 ---
 spring:
   profiles: lazy
-   activities: to grab a bear,to eat a cookie,to take a nap
+activities: to grab a bear,to eat a cookie,to take a nap
 ---
 spring:
   profiles: crazy
-    activities: to run a marathon, to go hiking
+activities: to run a marathon, to go hiking
 
